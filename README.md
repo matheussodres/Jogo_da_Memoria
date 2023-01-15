@@ -14,7 +14,7 @@ Esse é o repositório da aula de Javascript, na qual fiz um jogo da memória
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/matheussodres/Jogo_da_Memoria
 ```
 
 Entre no diretório do projeto
